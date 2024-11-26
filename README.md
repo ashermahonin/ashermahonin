@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&size=25&duration=6000&pause=10&color=3AF72E&vCenter=true&random=false&width=500&height=150&lines=Hi+there+%F0%9F%91%8B+I'm+Aslan;DevOps-engineer+%F0%9F%91%BD;3%2B+years+of+experience+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&size=25&duration=6000&pause=10&color=3AF72E&vCenter=true&random=false&width=500&height=150&lines=Hi+there+%F0%9F%91%8B+I'm+Aslan;DevOps-engineer+%F0%9F%91%BD;5%2B+years+of+experience+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ## Experience / Tools :
  - ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
  - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
